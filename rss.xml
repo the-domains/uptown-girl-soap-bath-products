@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Uptown Girl Soap & Bath Products]]></title>
         <description><![CDATA[Uptown Girl Soap & Bath Products]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/uptown-girl-soap-bath-products/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 23:30:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 23:30:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uptown-girl-soap-bath-products/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/952f348a-a39c-4d02-84e1-f56381cf7363.png">]]></description>
+            <link>https://thegrid.ai/uptown-girl-soap-bath-products/3afc2bd3-544d-463d-800f-cb0a35610efe/index.html</link>
+            <guid isPermaLink="false">3afc2bd3-544d-463d-800f-cb0a35610efe</guid>
+            <pubDate>Wed, 09 Mar 2016 23:30:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I Became The Best Damn Soap Maker!]]></title>
             <description><![CDATA[<article><h1>How I Became The Best Damn Soap Maker!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/799a17bd7270224c1a5215276f25025b7502e7fb.png"></article>]]></description>
-            <link>undefinedhow-i-became-the-best-damn-soap-maker/index.html</link>
+            <link>https://thegrid.ai/uptown-girl-soap-bath-products/how-i-became-the-best-damn-soap-maker/index.html</link>
             <guid isPermaLink="false">3344bb6e-bd43-4ffe-a703-1f3467f0a4a8</guid>
             <pubDate>Wed, 09 Mar 2016 23:30:04 GMT</pubDate>
         </item>
