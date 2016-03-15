@@ -1,4 +1,4 @@
-layout_spectrum: 1
+layout_spectrum: 0.8591906
 name: 'Uptown Girl Soap & Bath Products'
 collections:
   - index:
@@ -12,15 +12,15 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 1
 color:
   brandStrength: 0.163575
-  lightness: 0.6424958
-  saturation: 0.6576728
-  rhythmicContrast: 0.6812816
+  lightness: 0.01349073
+  saturation: 0.886172
+  rhythmicContrast: 0.4173693
   brandColors:
     - '#71A7FE'
     - '#399AE7'
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+typography_spectrum: 0.7099494
