@@ -47,9 +47,9 @@ app_links:
     url: 'etsy://listing/268165794?ref=TwitterProductCard'
 isBasedOnUrl: 'https://www.etsy.com/listing/268165794/organic-soap-lilac-hill-soap-gift-soap?ref=shop_home_feat_2'
 title: Lilac Hill Soap $5.00 per 5 Ounce Bar
-datePublished: '2016-03-10T12:36:11.188Z'
-dateModified: '2016-03-10T12:36:00.456Z'
-starred: true
+datePublished: '2016-03-17T08:22:06.835Z'
+dateModified: '2016-03-10T12:43:04.054Z'
+starred: false
 sourcePath: _posts/2016-03-10-lilac-hill-soap-dollar500-per-5-ounce-bar.md
 published: true
 inFeed: true
